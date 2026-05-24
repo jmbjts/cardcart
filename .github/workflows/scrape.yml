@@ -1,8 +1,8 @@
-name: Daily Card Scrape
+  name: Daily Card Scrape
 
 on:
   schedule:
-    - cron: '0 2 */2 * *'  # 2:00 AM UTC every 2 days
+    - cron: '0 2 * * 1,4'   # 2:00 AM UTC every Monday and Thursday
   workflow_dispatch:        # adds a "Run workflow" button in the GitHub UI
 
 permissions:
@@ -32,10 +32,12 @@ jobs:
       - name: Validate and replace CSV
         run: |
           # Only replace the live CSV if the new one actually has data rows
+          CSV_UPDATED=false
           if [ -f yuyu_cards_new.csv ]; then
             LINES=$(wc -l < yuyu_cards_new.csv)
             if [ "$LINES" -gt 1 ]; then
               mv yuyu_cards_new.csv yuyu_cards_latest.csv
+              CSV_UPDATED=true
               echo "Scrape succeeded: $LINES lines"
             else
               echo "Scrape returned no data — keeping existing CSV"
@@ -44,15 +46,16 @@ jobs:
           else
             echo "Scraper produced no output file — keeping existing CSV"
           fi
+          echo "CSV_UPDATED=$CSV_UPDATED" >> $GITHUB_ENV
 
       - name: Write metadata
         run: |
-          if [ -f yuyu_cards_latest.csv ]; then
+          if [ "$CSV_UPDATED" = "true" ] && [ -f yuyu_cards_latest.csv ]; then
             COUNT=$(tail -n +2 yuyu_cards_latest.csv | wc -l)
+            echo "{\"updated\":\"$(date -u +%Y-%m-%d)\",\"time\":\"$(date -u +%H:%M) UTC\",\"count\":$COUNT}" > meta.json
           else
-            COUNT=0
+            echo "CSV was not updated — skipping meta.json update"
           fi
-          echo "{\"updated\":\"$(date -u +%Y-%m-%d)\",\"time\":\"$(date -u +%H:%M) UTC\",\"count\":$COUNT}" > meta.json
 
       - name: Commit and push
         run: |
