@@ -1,8 +1,6 @@
-name: Twice-Weekly Card Scrape
+name: Card Scrape (manual trigger only)
 
 on:
-  schedule:
-    - cron: '0 2 * * 1,4'   # 2:00 AM UTC every Monday and Thursday
   workflow_dispatch:
 
 permissions:
@@ -11,9 +9,6 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
@@ -38,11 +33,9 @@ jobs:
               CSV_UPDATED=true
               echo "Scrape succeeded: $LINES lines"
             else
-              echo "Scrape returned no data - keeping existing CSV"
+              echo "No data - keeping existing CSV"
               rm -f yuyu_cards_new.csv
             fi
-          else
-            echo "Scraper produced no output file - keeping existing CSV"
           fi
           echo "CSV_UPDATED=$CSV_UPDATED" >> $GITHUB_ENV
 
@@ -51,8 +44,6 @@ jobs:
           if [ "$CSV_UPDATED" = "true" ] && [ -f yuyu_cards_latest.csv ]; then
             COUNT=$(tail -n +2 yuyu_cards_latest.csv | wc -l)
             echo "{\"updated\":\"$(date -u +%Y-%m-%d)\",\"time\":\"$(date -u +%H:%M) UTC\",\"count\":$COUNT}" > meta.json
-          else
-            echo "CSV was not updated - skipping meta.json update"
           fi
 
       - name: Commit and push
