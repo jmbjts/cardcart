@@ -1,5 +1,4 @@
 series,section,number,name,en_name,price,image_url
-ST01,SR,ST01-012,モンキー・D・ルフィ,Monkey.D.Luffy,420 円,https://card.yuyu-tei.jp/opc/100_140/st01/10012.jpg
 ST01,SR,ST01-013,ロロノア・ゾロ,Roronoa Zoro,120 円,https://card.yuyu-tei.jp/opc/100_140/st01/10013.jpg
 ST01,C,ST01-002,ウソップ,Usopp,80 円,https://card.yuyu-tei.jp/opc/100_140/st01/10002.jpg
 ST01,C,ST01-003,カルー,Karoo,80 円,https://card.yuyu-tei.jp/opc/100_140/st01/10003.jpg
@@ -410,7 +409,6 @@ ST28,C,ST28-001,アシュラ童子,Ashura Doji,30 円,https://card.yuyu-tei.jp/o
 ST28,C,ST28-002,イゾウ,Izo,30 円,https://card.yuyu-tei.jp/opc/100_140/st28/10002.jpg
 ST28,C,ST28-003,錦えもん,Kin'emon,50 円,https://card.yuyu-tei.jp/opc/100_140/st28/10003.jpg
 ST28,L,OP06-022,ヤマト,Yamato,120 円,https://card.yuyu-tei.jp/opc/100_140/st28/10006.jpg
-ST29,P-SR,ST29-004,サンジ(パラレル),Sanji,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/st29/10008.jpg
 ST29,P-SR,ST29-014,ロロノア・ゾロ(パラレル),Roronoa Zoro,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/st29/10028.jpg
 ST29,SR,ST29-004,サンジ,Sanji,320 円,https://card.yuyu-tei.jp/opc/100_140/st29/10007.jpg
 ST29,SR,ST29-014,ロロノア・ゾロ,Roronoa Zoro,220 円,https://card.yuyu-tei.jp/opc/100_140/st29/10027.jpg
@@ -600,7 +598,7 @@ OP01,L,OP01-061,カイドウ,Kaido,80 円,https://card.yuyu-tei.jp/opc/100_140/o
 OP01,L,OP01-062,クロコダイル,Crocodile,80 円,https://card.yuyu-tei.jp/opc/100_140/op01/10078.jpg
 OP01,L,OP01-091,キング,King,80 円,https://card.yuyu-tei.jp/opc/100_140/op01/10114.jpg
 OP01,-,-,ドン!!カード(黒文字白背景/ONE PIECE FILM RED裏面),,30 円,https://card.yuyu-tei.jp/opc/100_140/op01/10155.jpg
-OP01,-,-,ドン!!カード(海賊王におれはなる!!!!),,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op01/10156.jpg
+OP01,-,-,ドン!!カード(海賊王におれはなる!!!!),,780 円,https://card.yuyu-tei.jp/opc/100_140/op01/10156.jpg
 OP02,P-SEC,OP02-120,ウタ(パラレル),Uta,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op02/10152.jpg
 OP02,P-SEC,OP02-121,クザン(パラレル),Kuzan,980 円,https://card.yuyu-tei.jp/opc/100_140/op02/10154.jpg
 OP02,SEC,OP02-120,ウタ,Uta,500 円,https://card.yuyu-tei.jp/opc/100_140/op02/10151.jpg
@@ -747,7 +745,6 @@ OP03,P-SR,OP03-092,ロブ・ルッチ(パラレル),Rob Lucci,580 円,https://ca
 OP03,P-SR,OP03-108,シャーロット・クラッカー(パラレル),Charlotte Cracker,580 円,https://card.yuyu-tei.jp/opc/100_140/op03/10129.jpg
 OP03,P-SR,OP03-113,シャーロット・ペロスペロー(パラレル),Charlotte Perospero,580 円,https://card.yuyu-tei.jp/opc/100_140/op03/10136.jpg
 OP03,P-SR,OP03-114,シャーロット・リンリン(パラレル),Charlotte Linlin,780 円,https://card.yuyu-tei.jp/opc/100_140/op03/10138.jpg
-OP03,SR,OP03-013,マルコ,Marco,420 円,https://card.yuyu-tei.jp/opc/100_140/op03/10014.jpg
 OP03,SR,OP03-025,クリーク,Krieg,120 円,https://card.yuyu-tei.jp/opc/100_140/op03/10031.jpg
 OP03,SR,OP03-041,ウソップ,Usopp,120 円,https://card.yuyu-tei.jp/opc/100_140/op03/10049.jpg
 OP03,SR,OP03-066,パウリー,Paulie,120 円,https://card.yuyu-tei.jp/opc/100_140/op03/10077.jpg
@@ -877,7 +874,6 @@ OP04,P-SR,OP04-044,カイドウ(パラレル),Kaido,580 円,https://card.yuyu-te
 OP04,P-SR,OP04-060,クロコダイル(パラレル),Crocodile,580 円,https://card.yuyu-tei.jp/opc/100_140/op04/10074.jpg
 OP04,P-SR,OP04-064,ミス・オールサンデー(パラレル),Ms. All Sunday,980 円,https://card.yuyu-tei.jp/opc/100_140/op04/10079.jpg
 OP04,P-SR,OP04-083,サボ(パラレル),Sabo,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op04/10101.jpg
-OP04,P-SR,OP04-083,サボ(パラレル)(スーパーパラレル)(刻印なし),Sabo,"128,000 円",https://card.yuyu-tei.jp/opc/100_140/op04/10102.jpg
 OP04,P-SR,OP04-090,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/op04/10110.jpg
 OP04,P-SR,OP04-104,サンジ(パラレル),Sanji,980 円,https://card.yuyu-tei.jp/opc/100_140/op04/10126.jpg
 OP04,P-SR,OP04-112,ヤマト(パラレル),Yamato,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op04/10135.jpg
@@ -1004,7 +1000,6 @@ OP05,P-SR,OP05-074,ユースタス・キッド(パラレル)(スーパーパラ�
 OP05,P-SR,OP05-091,レベッカ(パラレル),Rebecca,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op05/10111.jpg
 OP05,P-SR,OP05-093,ロブ・ルッチ(パラレル),Rob Lucci,780 円,https://card.yuyu-tei.jp/opc/100_140/op05/10114.jpg
 OP05,P-SR,OP05-100,エネル(パラレル),Enel,780 円,https://card.yuyu-tei.jp/opc/100_140/op05/10123.jpg
-OP05,P-SR,ST01-012,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"19,800 円",https://card.yuyu-tei.jp/opc/100_140/op05/10154.jpg
 OP05,P-SR,ST01-012,モンキー・D・ルフィ(パラレル)(サイン入り),Monkey.D.Luffy,"798,000 円",https://card.yuyu-tei.jp/opc/100_140/op05/10155.jpg
 OP05,SR,OP05-006,コアラ,Koala,220 円,https://card.yuyu-tei.jp/opc/100_140/op05/10008.jpg
 OP05,SR,OP05-051,ボルサリーノ,Borsalino,120 円,https://card.yuyu-tei.jp/opc/100_140/op05/10061.jpg
@@ -1269,11 +1264,9 @@ OP07,P-SR,OP07-026,ジュエリー・ボニー(パラレル),Jewelry Bonney,"1,2
 OP07,P-SR,OP07-029,バジル・ホーキンス(パラレル),Basil Hawkins,580 円,https://card.yuyu-tei.jp/opc/100_140/op07/10036.jpg
 OP07,P-SR,OP07-045,ジンベエ(パラレル),Jinbe,980 円,https://card.yuyu-tei.jp/opc/100_140/op07/10054.jpg
 OP07,P-SR,OP07-051,ボア・ハンコック(パラレル),Boa Hancock,"7,980 円",https://card.yuyu-tei.jp/opc/100_140/op07/10063.jpg
-OP07,P-SR,OP07-051,ボア・ハンコック(パラレル)(スーパーパラレル),Boa Hancock,"298,000 円",https://card.yuyu-tei.jp/opc/100_140/op07/10064.jpg
 OP07,P-SR,OP07-064,サンジ(パラレル),Sanji,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op07/10079.jpg
 OP07,P-SR,OP07-072,ポルチェ(パラレル),Porche,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op07/10089.jpg
 OP07,P-SR,OP07-085,ステューシー(パラレル),Stussy,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op07/10104.jpg
-OP07,P-SR,OP07-109,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"5,980 円",https://card.yuyu-tei.jp/opc/100_140/op07/10131.jpg
 OP07,P-SR,OP07-111,リリス(パラレル),Lilith,780 円,https://card.yuyu-tei.jp/opc/100_140/op07/10134.jpg
 OP07,SR,OP07-015,モンキー・D・ドラゴン,Monkey.D.Dragon,120 円,https://card.yuyu-tei.jp/opc/100_140/op07/10017.jpg
 OP07,SR,OP07-026,ジュエリー・ボニー,Jewelry Bonney,120 円,https://card.yuyu-tei.jp/opc/100_140/op07/10031.jpg
@@ -1428,7 +1421,6 @@ OP08,P-R,OP08-110,ワイパー(パラレル),Wyper,980 円,https://card.yuyu-tei
 OP08,R,OP08-030,ペドロ,Pedro,120 円,https://card.yuyu-tei.jp/opc/100_140/op08/10036.jpg
 OP08,R,OP08-034,ワンダ,Wanda,120 円,https://card.yuyu-tei.jp/opc/100_140/op08/10041.jpg
 OP08,R,OP08-036,エレクトリカルルナ,Electrical Luna,420 円,https://card.yuyu-tei.jp/opc/100_140/op08/10043.jpg
-OP08,R,OP08-047,ジョズ,Jozu,500 円,https://card.yuyu-tei.jp/opc/100_140/op08/10055.jpg
 OP08,R,OP08-052,ポートガス・D・エース,Portgas.D.Ace,120 円,https://card.yuyu-tei.jp/opc/100_140/op08/10060.jpg
 OP08,R,OP08-053,愛してくれて………ありがとう!!!,Thank You...for Loving Me!!,120 円,https://card.yuyu-tei.jp/opc/100_140/op08/10062.jpg
 OP08,R,OP08-063,シャーロット・カタクリ,Charlotte Katakuri,120 円,https://card.yuyu-tei.jp/opc/100_140/op08/10074.jpg
@@ -1712,11 +1704,9 @@ OP10,R,OP10-029,ジュラキュール・ミホーク,Dracule Mihawk,120 円,http
 OP10,R,OP10-037,リム,Lim,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10046.jpg
 OP10,R,OP10-045,キャベンディッシュ,Cavendish,320 円,https://card.yuyu-tei.jp/opc/100_140/op10/10056.jpg
 OP10,R,OP10-049,サボ,Sabo,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10062.jpg
-OP10,R,OP10-059,おまえ…タチ…わ…おれ…が…み…ち…び…く…!!!,Fo...llow...Me...and...I...Will...Gui...de...You,420 円,https://card.yuyu-tei.jp/opc/100_140/op10/10073.jpg
 OP10,R,OP10-062,ヴァイオレット,Violet,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10076.jpg
 OP10,R,OP10-063,ヴィンスモーク・サンジ,Vinsmoke Sanji,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10077.jpg
 OP10,R,OP10-067,セニョール・ピンク,Senor Pink,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10081.jpg
-OP10,R,OP10-078,家族を笑う者はおれが許さん…!!!,I Do Not Forgive Those Who Laugh at My Family!!!,220 円,https://card.yuyu-tei.jp/opc/100_140/op10/10095.jpg
 OP10,R,OP10-086,シリュウ,Shiryu,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10104.jpg
 OP10,R,OP10-090,フランキー,Franky,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10108.jpg
 OP10,R,OP10-095,ロロノア・ゾロ,Roronoa Zoro,120 円,https://card.yuyu-tei.jp/opc/100_140/op10/10114.jpg
@@ -1829,7 +1819,6 @@ OP11,P-SR,OP11-010,ひばり(パラレル),Hibari,780 円,https://card.yuyu-tei.
 OP11,P-SR,OP11-031,ジンベエ(パラレル),Jinbe,580 円,https://card.yuyu-tei.jp/opc/100_140/op11/10040.jpg
 OP11,P-SR,OP11-051,サンジ(パラレル),Sanji,980 円,https://card.yuyu-tei.jp/opc/100_140/op11/10064.jpg
 OP11,P-SR,OP11-054,ナミ(パラレル),Nami,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/op11/10068.jpg
-OP11,P-SR,OP11-067,シャーロット・カタクリ(パラレル),Charlotte Katakuri,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op11/10083.jpg
 OP11,P-SR,OP11-070,シャーロット・プリン(パラレル),Charlotte Pudding,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op11/10087.jpg
 OP11,P-SR,OP11-092,ヘルメッポ(パラレル),Helmeppo,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op11/10113.jpg
 OP11,P-SR,OP11-095,モンキー・D・ガープ(パラレル),Monkey.D.Garp,980 円,https://card.yuyu-tei.jp/opc/100_140/op11/10117.jpg
@@ -1838,7 +1827,6 @@ OP11,SR,OP11-004,孔雀,Kujyaku,320 円,https://card.yuyu-tei.jp/opc/100_140/op1
 OP11,SR,OP11-010,ひばり,Hibari,120 円,https://card.yuyu-tei.jp/opc/100_140/op11/10013.jpg
 OP11,SR,OP11-031,ジンベエ,Jinbe,120 円,https://card.yuyu-tei.jp/opc/100_140/op11/10039.jpg
 OP11,SR,OP11-051,サンジ,Sanji,120 円,https://card.yuyu-tei.jp/opc/100_140/op11/10063.jpg
-OP11,SR,OP11-054,ナミ,Nami,580 円,https://card.yuyu-tei.jp/opc/100_140/op11/10067.jpg
 OP11,SR,OP11-067,シャーロット・カタクリ,Charlotte Katakuri,780 円,https://card.yuyu-tei.jp/opc/100_140/op11/10082.jpg
 OP11,SR,OP11-070,シャーロット・プリン,Charlotte Pudding,120 円,https://card.yuyu-tei.jp/opc/100_140/op11/10086.jpg
 OP11,SR,OP11-092,ヘルメッポ,Helmeppo,120 円,https://card.yuyu-tei.jp/opc/100_140/op11/10112.jpg
@@ -1963,7 +1951,6 @@ OP12,P-SEC,OP12-118,ジュエリー・ボニー(パラレル)(スーパーパラ
 OP12,P-SEC,OP12-119,バーソロミュー・くま(パラレル),Bartholomew Kuma,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op12/10146.jpg
 OP12,SEC,OP12-118,ジュエリー・ボニー,Jewelry Bonney,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op12/10142.jpg
 OP12,SEC,OP12-119,バーソロミュー・くま,Bartholomew Kuma,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op12/10145.jpg
-OP12,P-SR,OP12-014,ボア・ハンコック(パラレル),Boa Hancock,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/op12/10017.jpg
 OP12,P-SR,OP12-015,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op12/10019.jpg
 OP12,P-SR,OP12-030,ジュラキュール・ミホーク(パラレル),Dracule Mihawk,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op12/10036.jpg
 OP12,P-SR,OP12-034,ペローナ(パラレル),Perona,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/op12/10042.jpg
@@ -1978,7 +1965,6 @@ OP12,SR,OP12-015,モンキー・D・ルフィ,Monkey.D.Luffy,220 円,https://car
 OP12,SR,OP12-030,ジュラキュール・ミホーク,Dracule Mihawk,320 円,https://card.yuyu-tei.jp/opc/100_140/op12/10035.jpg
 OP12,SR,OP12-034,ペローナ,Perona,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op12/10041.jpg
 OP12,SR,OP12-056,モンキー・D・ガープ,Monkey.D.Garp,220 円,https://card.yuyu-tei.jp/opc/100_140/op12/10068.jpg
-OP12,SR,OP12-063,ヴィンスモーク・レイジュ,Vinsmoke Reiju,580 円,https://card.yuyu-tei.jp/opc/100_140/op12/10078.jpg
 OP12,SR,OP12-073,トラファルガー・ロー,Trafalgar Law,220 円,https://card.yuyu-tei.jp/opc/100_140/op12/10090.jpg
 OP12,SR,OP12-087,ニコ・ロビン,Nico Robin,220 円,https://card.yuyu-tei.jp/opc/100_140/op12/10107.jpg
 OP12,SR,OP12-094,モンキー・D・ドラゴン,Monkey.D.Dragon,220 円,https://card.yuyu-tei.jp/opc/100_140/op12/10115.jpg
@@ -1995,7 +1981,6 @@ OP12,R,OP12-008,シャンクス,Shanks,120 円,https://card.yuyu-tei.jp/opc/100_
 OP12,R,OP12-018,覇王色の覇気,Color of the Supreme King Haki,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10022.jpg
 OP12,R,OP12-028,光月日和,Kouzuki Hiyori,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10033.jpg
 OP12,R,OP12-031,たしぎ,Tashigi,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10037.jpg
-OP12,R,OP12-037,鬼気 九刀流 阿修羅 抜剣 亡者戯,Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game,420 円,https://card.yuyu-tei.jp/opc/100_140/op12/10045.jpg
 OP12,R,OP12-039,ルフィは海賊王になる男だ!!!,Luffy Is the Man Who Will Become the King of Pirates!!!,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10048.jpg
 OP12,R,OP12-043,クザン,Kuzan,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10054.jpg
 OP12,R,OP12-044,サカズキ,Sakazuki,120 円,https://card.yuyu-tei.jp/opc/100_140/op12/10056.jpg
@@ -2126,7 +2111,6 @@ OP13,P-SR,OP13-066,シルバーズ・レイリー(パラレル),Silvers Rayleigh
 OP13,P-SR,OP13-082,五老星(パラレル),Five Elders,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10102.jpg
 OP13,P-SR,OP13-108,ジュエリー・ボニー(パラレル),Jewelry Bonney,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10138.jpg
 OP13,P-SR,OP13-110,ステューシー(パラレル),Stussy,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10141.jpg
-OP13,SR,OP13-007,エース＆サボ＆ルフィ,Ace & Sabo & Luffy,420 円,https://card.yuyu-tei.jp/opc/100_140/op13/10011.jpg
 OP13,SR,OP13-023,ウタ,Uta,220 円,https://card.yuyu-tei.jp/opc/100_140/op13/10029.jpg
 OP13,SR,OP13-028,シャンクス,Shanks,220 円,https://card.yuyu-tei.jp/opc/100_140/op13/10036.jpg
 OP13,SR,OP13-042,エドワード・ニューゲート,Edward.Newgate,320 円,https://card.yuyu-tei.jp/opc/100_140/op13/10051.jpg
@@ -2140,16 +2124,9 @@ OP13,P-R,OP13-016,モンキー・D・ガープ(パラレル),Monkey.D.Garp,"1,98
 OP13,P-R,OP13-027,サンジ(パラレル),Sanji,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10035.jpg
 OP13,P-R,OP13-051,ボア・ハンコック(パラレル),Boa Hancock,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/op13/10062.jpg
 OP13,P-R,OP13-065,シャンクス(パラレル),Shanks,980 円,https://card.yuyu-tei.jp/opc/100_140/op13/10079.jpg
-OP13,P-R,OP13-076,神避(パラレル),Divine Departure,"5,980 円",https://card.yuyu-tei.jp/opc/100_140/op13/10092.jpg
-OP13,P-R,OP13-080,イーザンバロン・V・ナス寿郎聖(パラレル),St. Ethanbaron V. Nusjuro,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op13/10098.jpg
-OP13,P-R,OP13-080,イーザンバロン・V・ナス寿郎聖(特別パラレル),St. Ethanbaron V. Nusjuro,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/op13/10099.jpg
 OP13,P-R,OP13-083,ジェイガルシア・サターン聖(パラレル),St. Jaygarcia Saturn,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op13/10104.jpg
-OP13,P-R,OP13-083,ジェイガルシア・サターン聖(特別パラレル),St. Jaygarcia Saturn,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/op13/10105.jpg
 OP13,P-R,OP13-084,シェパード・十・ピーター聖(パラレル),St. Shepherd Ju Peter,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op13/10107.jpg
-OP13,P-R,OP13-084,シェパード・十・ピーター聖(特別パラレル),St. Shepherd Ju Peter,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/op13/10108.jpg
-OP13,P-R,OP13-089,トップマン・ウォーキュリー聖(パラレル),St. Topman Warcury,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op13/10114.jpg
 OP13,P-R,OP13-089,トップマン・ウォーキュリー聖(特別パラレル),St. Topman Warcury,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/op13/10115.jpg
-OP13,P-R,OP13-091,マーカス・マーズ聖(パラレル),St. Marcus Mars,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op13/10118.jpg
 OP13,P-R,OP13-091,マーカス・マーズ聖(特別パラレル),St. Marcus Mars,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/op13/10119.jpg
 OP13,P-R,OP13-113,リリス(パラレル),Lilith,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10145.jpg
 OP13,P-R,OP13-114,S-スネーク(パラレル),S-Snake,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op13/10147.jpg
@@ -2276,13 +2253,10 @@ OP14,SEC,OP14-120,クロコダイル,Crocodile,"1,280 円",https://card.yuyu-tei
 OP14,P-SR,OP14-009,トラファルガー・ロー(パラレル),Trafalgar Law,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op14/10011.jpg
 OP14,P-SR,OP14-013,モンキー・Ｄ・ルフィ(パラレル),Monkey.D.Luffy,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op14/10016.jpg
 OP14,P-SR,OP14-031,ナミ(パラレル),Nami,"7,980 円",https://card.yuyu-tei.jp/opc/100_140/op14/10038.jpg
-OP14,P-SR,OP14-033,ペローナ(パラレル),Perona,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/op14/10041.jpg
 OP14,P-SR,OP14-049,ジンベエ(パラレル),Jinbe,980 円,https://card.yuyu-tei.jp/opc/100_140/op14/10061.jpg
 OP14,P-SR,OP14-069,ドンキホーテ・ドフラミンゴ(パラレル),Donquixote Doflamingo,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op14/10084.jpg
 OP14,P-SR,OP14-084,ミス・オールサンデー(パラレル),Ms. All Sunday,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/op14/10102.jpg
-OP14,P-SR,OP14-091,Mr.2・ボン・クレー(ベンサム)(パラレル),Mr.2.Bon.Kurei(Bentham),"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op14/10111.jpg
 OP14,P-SR,OP14-104,ゲッコー・モリア(パラレル),Gecko Moria,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/op14/10126.jpg
-OP14,P-SR,OP14-112,ボア・ハンコック(パラレル),Boa Hancock,"19,800 円",https://card.yuyu-tei.jp/opc/100_140/op14/10136.jpg
 OP14,SR,OP14-009,トラファルガー・ロー,Trafalgar Law,220 円,https://card.yuyu-tei.jp/opc/100_140/op14/10010.jpg
 OP14,SR,OP14-013,モンキー・Ｄ・ルフィ,Monkey.D.Luffy,320 円,https://card.yuyu-tei.jp/opc/100_140/op14/10015.jpg
 OP14,SR,OP14-031,ナミ,Nami,980 円,https://card.yuyu-tei.jp/opc/100_140/op14/10037.jpg
@@ -2291,7 +2265,6 @@ OP14,SR,OP14-049,ジンベエ,Jinbe,320 円,https://card.yuyu-tei.jp/opc/100_140
 OP14,SR,OP14-069,ドンキホーテ・ドフラミンゴ,Donquixote Doflamingo,220 円,https://card.yuyu-tei.jp/opc/100_140/op14/10083.jpg
 OP14,SR,OP14-084,ミス・オールサンデー,Ms. All Sunday,220 円,https://card.yuyu-tei.jp/opc/100_140/op14/10101.jpg
 OP14,SR,OP14-091,Mr.2・ボン・クレー(ベンサム),Mr.2.Bon.Kurei(Bentham),220 円,https://card.yuyu-tei.jp/opc/100_140/op14/10110.jpg
-OP14,SR,OP14-104,ゲッコー・モリア,Gecko Moria,980 円,https://card.yuyu-tei.jp/opc/100_140/op14/10125.jpg
 OP14,SR,OP14-112,ボア・ハンコック,Boa Hancock,420 円,https://card.yuyu-tei.jp/opc/100_140/op14/10135.jpg
 OP14,P-R,OP14-015,ロロノア・ゾロ(パラレル),Roronoa Zoro,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op14/10019.jpg
 OP14,P-R,OP14-027,シャンクス(パラレル),Shanks,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op14/10033.jpg
@@ -2420,25 +2393,21 @@ OP15,P-SR,OP15-032,ブルック(パラレル),Brook,"2,480 円",https://card.yuy
 OP15,P-SR,OP15-046,サボ(パラレル),Sabo,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10056.jpg
 OP15,P-SR,OP15-053,レベッカ(パラレル),Rebecca,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10065.jpg
 OP15,P-SR,OP15-078,万雷(パラレル),Mamaragan,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10095.jpg
-OP15,P-SR,OP15-086,ナミ(パラレル),Nami,"59,800 円",https://card.yuyu-tei.jp/opc/100_140/op15/10104.jpg
 OP15,P-SR,OP15-113,ロロノア・ゾロ(パラレル),Roronoa Zoro,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10135.jpg
 OP15,P-SR,OP15-114,ワイパー(パラレル),Wyper,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op15/10137.jpg
 OP15,SR,OP15-007,ギン,Gin,220 円,https://card.yuyu-tei.jp/opc/100_140/op15/10010.jpg
 OP15,SR,OP15-008,クリーク,Krieg,220 円,https://card.yuyu-tei.jp/opc/100_140/op15/10012.jpg
 OP15,SR,OP15-032,ブルック,Brook,320 円,https://card.yuyu-tei.jp/opc/100_140/op15/10039.jpg
-OP15,SR,OP15-046,サボ,Sabo,420 円,https://card.yuyu-tei.jp/opc/100_140/op15/10055.jpg
-OP15,SR,OP15-053,レベッカ,Rebecca,420 円,https://card.yuyu-tei.jp/opc/100_140/op15/10064.jpg
 OP15,SR,OP15-060,エネル,Enel,220 円,https://card.yuyu-tei.jp/opc/100_140/op15/10073.jpg
 OP15,SR,OP15-078,万雷,Mamaragan,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10094.jpg
 OP15,SR,OP15-086,ナミ,Nami,500 円,https://card.yuyu-tei.jp/opc/100_140/op15/10103.jpg
-OP15,SR,OP15-113,ロロノア・ゾロ,Roronoa Zoro,780 円,https://card.yuyu-tei.jp/opc/100_140/op15/10134.jpg
 OP15,SR,OP15-114,ワイパー,Wyper,320 円,https://card.yuyu-tei.jp/opc/100_140/op15/10136.jpg
+OP15,P-R,OP15-025,クロ(パラレル),Kuro,980 円,https://card.yuyu-tei.jp/opc/100_140/op15/10032.jpg
 OP15,P-R,OP15-047,サンジ(パラレル),Sanji,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op15/10058.jpg
 OP15,P-R,OP15-061,オーム(パラレル),Ohm,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op15/10076.jpg
 OP15,P-R,OP15-077,雷龍(パラレル),Lightning Dragon,"24,800 円",https://card.yuyu-tei.jp/opc/100_140/op15/10093.jpg
 OP15,P-R,OP15-092,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/op15/10111.jpg
 OP15,P-R,OP15-109,ニコ・ロビン(パラレル),Nico Robin,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/op15/10130.jpg
-OP15,P-R,OP15-116,ゴムゴムの黄金回転弾(パラレル),Gum-Gum Golden Rifle,"24,800 円",https://card.yuyu-tei.jp/opc/100_140/op15/10140.jpg
 OP15,R,OP15-014,バルトロメオ,Bartolomeo,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10019.jpg
 OP15,R,OP15-020,火拳,Fire Fist,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10025.jpg
 OP15,R,OP15-023,アーロン,Arlong,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10029.jpg
@@ -2447,6 +2416,7 @@ OP15,R,OP15-055,使ってけれ‼ルフィ先輩ィ!!!,"Go Ahead and Use 'Em, M
 OP15,R,OP15-061,オーム,Ohm,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10075.jpg
 OP15,R,OP15-066,サトリ,Satori,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10081.jpg
 OP15,R,OP15-067,シュラ,Shura,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10082.jpg
+OP15,R,OP15-085,トニートニー・チョッパー,Tony Tony.Chopper,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10102.jpg
 OP15,R,OP15-088,パイレーツドッキング6,Pirates Docking Six,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10106.jpg
 OP15,R,OP15-092,モンキー・D・ルフィ,Monkey.D.Luffy,220 円,https://card.yuyu-tei.jp/opc/100_140/op15/10110.jpg
 OP15,R,OP15-108,ナミ,Nami,120 円,https://card.yuyu-tei.jp/opc/100_140/op15/10128.jpg
@@ -2557,31 +2527,21 @@ OP16,P-SR,OP16-026,エンポリオ・イワンコフ(パラレル),Emporio.Ivank
 OP16,P-SR,OP16-032,ボア・ハンコック(パラレル),Boa Hancock (パラレル),"12,800 円",https://card.yuyu-tei.jp/opc/100_140/op16/10040.jpg
 OP16,P-SR,OP16-048,バギー(パラレル),Buggy (パラレル),"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10059.jpg
 OP16,P-SR,OP16-056,Mr.3(ギャルディーノ)(パラレル),Mr.3(Galdino) (パラレル),"7,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10069.jpg
-OP16,P-SR,OP16-065,サカズキ(パラレル),Sakazuki (パラレル),"3,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10082.jpg
-OP16,P-SR,OP16-065,サカズキ(パラレル)(スーパーパラレル),,"498,000 円",https://card.yuyu-tei.jp/opc/100_140/op16/10083.jpg
-OP16,P-SR,OP16-082,錦えもん(パラレル),Kin'emon (パラレル),"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10105.jpg
 OP16,P-SR,OP16-098,ヤマト(パラレル),Yamato (パラレル),"5,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10123.jpg
-OP16,P-SR,OP16-108,シリュウ(パラレル),Shiryu (パラレル),"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10134.jpg
 OP16,SR,OP16-003,エドワード・ニューゲート,Edward.Newgate,220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10004.jpg
 OP16,SR,OP16-015,モンキー・D・ルフィ,Monkey.D.Luffy,220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10018.jpg
 OP16,SR,OP16-026,エンポリオ・イワンコフ,Emporio.Ivankov,220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10032.jpg
-OP16,SR,OP16-032,ボア・ハンコック,Boa Hancock,420 円,https://card.yuyu-tei.jp/opc/100_140/op16/10039.jpg
 OP16,SR,OP16-048,バギー,Buggy,320 円,https://card.yuyu-tei.jp/opc/100_140/op16/10058.jpg
 OP16,SR,OP16-056,Mr.3(ギャルディーノ),Mr.3(Galdino),"1,980 円",https://card.yuyu-tei.jp/opc/100_140/op16/10068.jpg
 OP16,SR,OP16-065,サカズキ,Sakazuki,320 円,https://card.yuyu-tei.jp/opc/100_140/op16/10081.jpg
 OP16,SR,OP16-082,錦えもん,Kin'emon,320 円,https://card.yuyu-tei.jp/opc/100_140/op16/10104.jpg
-OP16,SR,OP16-098,ヤマト,Yamato,420 円,https://card.yuyu-tei.jp/opc/100_140/op16/10122.jpg
 OP16,SR,OP16-108,シリュウ,Shiryu,220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10133.jpg
 OP16,P-R,OP16-014,マルコ(パラレル),Marco (パラレル),"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10017.jpg
 OP16,P-R,OP16-021,モビー・ディック号(パラレル),Moby Dick (パラレル),"1,780 円",https://card.yuyu-tei.jp/opc/100_140/op16/10026.jpg
-OP16,P-R,OP16-034,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy (パラレル),"3,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10043.jpg
 OP16,P-R,OP16-055,Mr.2・ボン・クレー(ベンサム)(パラレル),Mr.2.Bon.Kurei(Bentham) (パラレル),"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10067.jpg
 OP16,P-R,OP16-063,クザン(パラレル),Kuzan (パラレル),"1,280 円",https://card.yuyu-tei.jp/opc/100_140/op16/10078.jpg
 OP16,P-R,OP16-063,クザン(パラレル)(スーパーパラレル),,"398,000 円",https://card.yuyu-tei.jp/opc/100_140/op16/10079.jpg
 OP16,P-R,OP16-073,ボルサリーノ(パラレル),Borsalino (パラレル),"1,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10092.jpg
-OP16,P-R,OP16-073,ボルサリーノ(パラレル)(スーパーパラレル),,"348,000 円",https://card.yuyu-tei.jp/opc/100_140/op16/10093.jpg
-OP16,P-R,OP16-085,光月モモの助(パラレル),Kouzuki Momonosuke (パラレル),"3,480 円",https://card.yuyu-tei.jp/opc/100_140/op16/10109.jpg
-OP16,P-R,OP16-116,ゼハハハハハハ!!!(パラレル),,"39,800 円",https://card.yuyu-tei.jp/opc/100_140/op16/10143.jpg
 OP16,R,OP16-011,ビスタ,Vista,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10013.jpg
 OP16,R,OP16-014,マルコ,Marco,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10016.jpg
 OP16,R,OP16-017,リトルオーズJr.,LittleOars Jr.,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10021.jpg
@@ -2590,7 +2550,6 @@ OP16,R,OP16-027,ジンベエ,Jinbe,120 円,https://card.yuyu-tei.jp/opc/100_140/
 OP16,R,OP16-030,トラファルガー・ロー,Trafalgar Law,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10037.jpg
 OP16,R,OP16-034,モンキー・D・ルフィ,Monkey.D.Luffy,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10042.jpg
 OP16,R,OP16-038,行くぞ～～～!!!海軍本部～～～!!!,,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10047.jpg
-OP16,R,OP16-042,インペルダウンの囚人,,500 円,https://card.yuyu-tei.jp/opc/100_140/op16/10052.jpg
 OP16,R,OP16-054,Mr.1(ダズ・ボーネス),Mr.1(Daz.Bonez),220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10065.jpg
 OP16,R,OP16-055,Mr.2・ボン・クレー(ベンサム),Mr.2.Bon.Kurei(Bentham),220 円,https://card.yuyu-tei.jp/opc/100_140/op16/10066.jpg
 OP16,R,OP16-058,囚人達が暴れ出したァ～～～!!!,,120 円,https://card.yuyu-tei.jp/opc/100_140/op16/10071.jpg
@@ -2733,7 +2692,6 @@ EB01,R,EB01-028,ゴムゴムのチャンピオン回転弾,Gum-Gum Champion Rifl
 EB01,R,EB01-039,降三世 引奈落,Conquerer of Three Worlds Ragnaraku,120 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10050.jpg
 EB01,R,EB01-043,スパンダイン,Spandine,120 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10055.jpg
 EB01,R,EB01-049,Tボーン,T-Bone,120 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10063.jpg
-EB01,R,EB01-059,雷迎,Kingdom Come,420 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10077.jpg
 EB01,C,EB01-004,コーザ,Koza,30 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10006.jpg
 EB01,C,EB01-005,ドーマ,Doma,30 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10007.jpg
 EB01,C,EB01-007,ヤマト,Yamato,30 円,https://card.yuyu-tei.jp/opc/100_140/eb01/10011.jpg
@@ -2787,7 +2745,6 @@ EB02,SR,EB02-026,ネフェルタリ・ビビ,Nefeltari Vivi,220 円,https://card
 EB02,SR,EB02-035,サンジ&プリン,Sanji & Pudding,320 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10043.jpg
 EB02,SR,EB02-044,センゴク,Sengoku,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10054.jpg
 EB02,SR,EB02-045,トラファルガー・ロー,Trafalgar Law,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10056.jpg
-EB02,SR,EB02-052,エネル,Enel,420 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10065.jpg
 EB02,SR,EB02-056,ベガパンク,Vegapunk,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10071.jpg
 EB02,P-R,EB02-003,トニートニー・チョッパー(パラレル),Tony Tony.Chopper,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/eb02/10004.jpg
 EB02,P-R,EB02-017,ナミ(パラレル),Nami,"5,980 円",https://card.yuyu-tei.jp/opc/100_140/eb02/10023.jpg
@@ -2799,7 +2756,7 @@ EB02,R,EB02-002,サボ,Sabo,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10
 EB02,R,EB02-003,トニートニー・チョッパー,Tony Tony.Chopper,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10003.jpg
 EB02,R,EB02-008,最高到達点,The Peak,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10010.jpg
 EB02,R,EB02-017,ナミ,Nami,220 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10022.jpg
-EB02,R,EB02-020,ウィーアー！,We Are!,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10026.jpg
+EB02,R,EB02-020,ウィーアー！,We Are!,980 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10026.jpg
 EB02,R,EB02-031,Hope,Hope,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10039.jpg
 EB02,R,EB02-036,ニコ・ロビン,Nico Robin,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10045.jpg
 EB02,R,EB02-040,BRAND NEW WORLD,BRAND NEW WORLD,120 円,https://card.yuyu-tei.jp/opc/100_140/eb02/10050.jpg
@@ -2877,7 +2834,6 @@ EB03,P-SR,EB03-031,ヴィンスモーク・レイジュ(パラレル),Vinsmoke R
 EB03,P-SR,EB03-042,コアラ(パラレル),Koala,980 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10054.jpg
 EB03,P-SR,EB03-045,ペローナ(パラレル),Perona,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/eb03/10058.jpg
 EB03,P-SR,EB03-053,ナミ(パラレル),Nami,"6,980 円",https://card.yuyu-tei.jp/opc/100_140/eb03/10067.jpg
-EB03,P-SR,EB03-055,ニコ・ロビン(パラレル),Nico Robin,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/eb03/10070.jpg
 EB03,SR,EB03-003,ウタ,Uta,220 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10004.jpg
 EB03,SR,EB03-018,たしぎ,Tashigi,120 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10022.jpg
 EB03,SR,EB03-024,ネフェルタリ・ビビ,Nefeltari Vivi,320 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10029.jpg
@@ -2885,8 +2841,6 @@ EB03,SR,EB03-026,ボア・ハンコック,Boa Hancock,320 円,https://card.yuyu-
 EB03,SR,EB03-031,ヴィンスモーク・レイジュ,Vinsmoke Reiju,220 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10039.jpg
 EB03,SR,EB03-042,コアラ,Koala,220 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10053.jpg
 EB03,SR,EB03-045,ペローナ,Perona,220 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10057.jpg
-EB03,SR,EB03-053,ナミ,Nami,980 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10066.jpg
-EB03,SR,EB03-055,ニコ・ロビン,Nico Robin,780 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10069.jpg
 EB03,P-R,EB03-008,ひばり(パラレル),Hibari,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/eb03/10011.jpg
 EB03,P-R,EB03-013,キャロット(パラレル),Carrot,980 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10017.jpg
 EB03,P-R,EB03-025,ヒナ(パラレル),Hina,780 円,https://card.yuyu-tei.jp/opc/100_140/eb03/10032.jpg
@@ -2953,7 +2907,6 @@ EB04,P-SR,EB04-013,キャロット(パラレル),Carrot,"1,480 円",https://card
 EB04,P-SR,EB04-025,ネフェルタリ・ビビ(パラレル),Nefeltari Vivi,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10033.jpg
 EB04,P-SR,EB04-036,フォクシー(パラレル),Foxy,780 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10046.jpg
 EB04,P-SR,EB04-038,ロシナンテ＆ロー(パラレル),Rosinante & Law,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10049.jpg
-EB04,P-SR,EB04-044,コビー(パラレル),Koby,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10057.jpg
 EB04,P-SR,EB04-044,コビー(パラレル)(スーパーパラレル),Koby,"128,000 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10058.jpg
 EB04,P-SR,EB04-048,ロブ・ルッチ(パラレル),Rob Lucci,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10063.jpg
 EB04,P-SR,EB04-058,ボルサリーノ(パラレル),Borsalino,"14,800 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10075.jpg
@@ -2962,8 +2915,6 @@ EB04,SR,EB04-012,菊之丞,Kikunojo,220 円,https://card.yuyu-tei.jp/opc/100_140
 EB04,SR,EB04-013,キャロット,Carrot,220 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10017.jpg
 EB04,SR,EB04-025,ネフェルタリ・ビビ,Nefeltari Vivi,320 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10032.jpg
 EB04,SR,EB04-036,フォクシー,Foxy,220 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10045.jpg
-EB04,SR,EB04-038,ロシナンテ＆ロー,Rosinante & Law,980 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10048.jpg
-EB04,SR,EB04-044,コビー,Koby,500 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10056.jpg
 EB04,SR,EB04-048,ロブ・ルッチ,Rob Lucci,220 円,https://card.yuyu-tei.jp/opc/100_140/eb04/10062.jpg
 EB04,SR,EB04-058,ボルサリーノ,Borsalino,"7,980 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10074.jpg
 EB04,P-R,EB04-002,ジュエリー・ボニー(パラレル),Jewelry Bonney,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/eb04/10004.jpg
@@ -3334,7 +3285,6 @@ PRB02,P-SR,PRB02-005,モンキー・D・ルフィ(パラレル),Monkey.D.Luffy,"
 PRB02,P-SR,PRB02-008,マルコ(パラレル),Marco,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10016.jpg
 PRB02,P-SR,PRB02-010,シャーロット・プリン(パラレル),Charlotte Pudding,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10020.jpg
 PRB02,P-SR,PRB02-014,サボ(パラレル),Sabo,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10028.jpg
-PRB02,P-SR,PRB02-017,ボア・ハンコック(パラレル),Boa Hancock,"5,980 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10034.jpg
 PRB02,P-SR,ST15-002,エドワード・ニューゲート(パラレル)(PRB2),Edward.Newgate,580 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10127.jpg
 PRB02,P-SR,ST16-004,シャンクス(パラレル)(PRB2),Shanks,780 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10129.jpg
 PRB02,P-SR,ST17-002,トラファルガー・ロー(パラレル)(PRB2),Trafalgar Law,580 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10131.jpg
@@ -3344,7 +3294,6 @@ PRB02,SR,PRB02-008,マルコ,Marco,320 円,https://card.yuyu-tei.jp/opc/100_140/
 PRB02,SR,PRB02-010,シャーロット・プリン,Charlotte Pudding,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10019.jpg
 PRB02,SR,PRB02-014,サボ,Sabo,220 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10027.jpg
 PRB02,SR,PRB02-017,ボア・ハンコック,Boa Hancock,220 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10033.jpg
-PRB02,P-R,PRB02-001,コビー(パラレル),Koby,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10002.jpg
 PRB02,P-R,PRB02-003,ラッキー・ルウ(パラレル),Lucky.Roux,680 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10006.jpg
 PRB02,P-R,PRB02-004,ジュエリー・ボニー(パラレル),Jewelry Bonney,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10008.jpg
 PRB02,P-R,PRB02-006,ロロノア・ゾロ(パラレル),Roronoa Zoro,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10012.jpg
@@ -3363,7 +3312,6 @@ PRB02,P-R,OP05-030,ドンキホーテ・ロシナンテ(パラレル)(PRB2),Donq
 PRB02,P-R,OP06-058,重力刀　猛虎(パラレル)(PRB2),Gravity Blade Raging Tiger,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10058.jpg
 PRB02,P-R,OP06-115,お前が消えろ(パラレル)(PRB2),You're the One Who Should Disappear.,"1,480 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10064.jpg
 PRB02,P-R,OP07-021,ウルージ(パラレル)(PRB2),Urouge,580 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10068.jpg
-PRB02,P-R,OP09-020,来い…!!!おれ達が相手をしてやる!!!(パラレル)(PRB2),Come On!! We'll Fight You!!,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10080.jpg
 PRB02,P-R,OP09-056,Mr.3(ギャルディーノ)(パラレル)(PRB2),Mr.3(Galdino),780 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10083.jpg
 PRB02,P-R,OP09-057,クロスギルド(パラレル)(PRB2),Cross Guild,"17,800 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10084.jpg
 PRB02,P-R,OP09-076,ロロノア・ゾロ(パラレル)(PRB2),Roronoa Zoro,"1,280 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10085.jpg
@@ -3527,7 +3475,6 @@ PRB02,-,-,ドン!!カード(サンジ),,50 円,https://card.yuyu-tei.jp/opc/100_
 PRB02,-,-,ドン!!カード(サンジ)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10198.jpg
 PRB02,-,-,ドン!!カード(サンジ)(パラレル)(スーパーパラレル),,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10199.jpg
 PRB02,-,-,ドン!!カード(シーザー),,50 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10200.jpg
-PRB02,-,-,ドン!!カード(シーザー)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10201.jpg
 PRB02,-,-,ドン!!カード(シーザー)(パラレル)(スーパーパラレル),,"1,780 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10202.jpg
 PRB02,-,-,ドン!!カード(シャーロット・プリン),,50 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10203.jpg
 PRB02,-,-,ドン!!カード(シャーロット・プリン)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10204.jpg
@@ -3563,7 +3510,6 @@ PRB02,-,-,ドン!!カード(バギー),,50 円,https://card.yuyu-tei.jp/opc/100_
 PRB02,-,-,ドン!!カード(バギー)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10234.jpg
 PRB02,-,-,ドン!!カード(バギー)(パラレル)(スーパーパラレル),,"2,980 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10235.jpg
 PRB02,-,-,ドン!!カード(ハンニャバル),,50 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10236.jpg
-PRB02,-,-,ドン!!カード(ハンニャバル)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10237.jpg
 PRB02,-,-,ドン!!カード(ハンニャバル)(パラレル)(スーパーパラレル),,"1,980 円",https://card.yuyu-tei.jp/opc/100_140/prb02/10238.jpg
 PRB02,-,-,ドン!!カード(フォクシー),,50 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10239.jpg
 PRB02,-,-,ドン!!カード(フォクシー)(パラレル),,320 円,https://card.yuyu-tei.jp/opc/100_140/prb02/10240.jpg
@@ -3721,8 +3667,7 @@ Promo-100,P,P-080,モンキー・D・ルフィ(パラレル)(BANDAI CARD GAMES F
 Promo-100,P,P-080,モンキー・D・ルフィ(パラレル)(モスバーガータイアップキャンペーン),Monkey.D.Luffy,"14,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-100/10130.jpg
 Promo-100,P,P-046,ヤマト(ONE PIECE magazine Vol.17付録),Yamato,"3,980 円",https://card.yuyu-tei.jp/noimage_100_140.jpg
 Promo-200,P,P-107,ゴール・Ｄ・ロジャー(交流会2025年9月開催記念品),Gol.D.Roger,980 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10001.jpg
-Promo-200,P,P-101,トニートニー・チョッパー(プロモーションカードセット2025ゲットキャンペーン),Tony Tony.Chopper,320 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10002.jpg
-Promo-200,P,P-102,ナミ(プロモーションカードセット2025ゲットキャンペーン),Nami,580 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10003.jpg
+Promo-200,P,P-102,ナミ(プロモーションカードセット2025ゲットキャンペーン),Nami,500 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10003.jpg
 Promo-200,P,P-103,ポートガス・D・エース(プロモーションカードセット2025ゲットキャンペーン),Portgas.D.Ace,120 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10004.jpg
 Promo-200,P,P-104,シャンクス(プロモーションカードセット2025ゲットキャンペーン),Shanks,120 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10005.jpg
 Promo-200,P,P-105,サボ(プロモーションカードセット2025ゲットキャンペーン),Sabo,220 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10006.jpg
@@ -3738,6 +3683,8 @@ Promo-200,P,P-101,トニートニー・チョッパー(パラレル),Tony Tony.C
 Promo-200,P,P-102,ナミ(パラレル)(スタンダードバトルパック Vol.14),Nami,420 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10016.jpg
 Promo-200,P,P-103,ポートガス・D・エース(パラレル)(スタンダードバトルパック Vol.14),Portgas.D.Ace,220 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10017.jpg
 Promo-200,P,P-106,モンキー・D・ルフィ(パラレル/ホロなし)(スタンダードバトルパック Vol.14),Monkey.D.Luffy,320 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10020.jpg
+Promo-200,P,P-106,モンキー・D・ルフィ(パラレル/ホロあり)(スタンダードバトルパック Vol.14),Monkey.D.Luffy,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/promo-200/10021.jpg
+Promo-200,P,P-120,サンジ(Vジャンプ2026年4月特大号),Sanji,680 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10022.jpg
 Promo-200,P,P-119,ポートガス・Ｄ・エース(交流会 2026年3月開催記念品),Portgas.D.Ace,220 円,https://card.yuyu-tei.jp/opc/100_140/promo-200/10024.jpg
 Promo-200,P,P-110,モンキー・D・ルフィ(プレミアムカードコレクション-ONE PIECE DAY’25-),Monkey.D.Luffy,"34,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-200/10025.jpg
 Promo-200,P,P-159,モンキー・D・ルフィ(週刊少年ジャンプ33号付録),Monkey.D.Luffy (週刊少年ジャンプ33号付録),"1,480 円",https://card.yuyu-tei.jp/noimage_100_140.jpg
@@ -4025,11 +3972,10 @@ Promo-st10,SR,ST10-013,ユースタス・キッド(パラレル/箔押し)(ス�
 Promo-st10,SR,ST16-001,ウタ(パラレル)(ストレージボックスセット),Uta,580 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10078.jpg
 Promo-st10,SR,ST16-001,ウタ(パラレル/箔押し)(ストレージボックスセット),Uta,"39,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10079.jpg
 Promo-st10,SR,ST17-004,ボア・ハンコック(パラレル)(ストレージボックスセット),Boa Hancock,"19,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10080.jpg
-Promo-st10,SR,ST17-004,ボア・ハンコック(パラレル/箔押し)(ストレージボックスセット),Boa Hancock,"298,000 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10081.jpg
+Promo-st10,SR,ST17-004,ボア・ハンコック(パラレル/箔押し)(ストレージボックスセット),Boa Hancock,"248,000 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10081.jpg
 Promo-st10,SR,ST13-015,モンキー・D・ルフィ(パラレル/箔押し)(2nd ANNIVERSARY SET）,Monkey.D.Luffy,"79,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10082.jpg
 Promo-st10,SR,ST04-003,カイドウ(パラレル)(プロモーションパックEX Vol.2),Kaido,420 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10091.jpg
 Promo-st10,SR,ST10-006,モンキー・D・ルフィ(パラレル)(3周年！ワンピースカードトレジャーキャンペーン),Monkey.D.Luffy,500 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10096.jpg
-Promo-st10,SR,ST01-012,モンキー・D・ルフィ(パラレル/箔押し)(ジャンプ19号応募者全員サービス),Monkey.D.Luffy,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10097.jpg
 Promo-st10,SR,ST21-014,モンキー・D・ルフィ(パラレル)(ONE PIECE magazine),Monkey.D.Luffy,"29,800 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10099.jpg
 Promo-st10,SR,ST12-003,ジュラキュール・ミホーク(パラレル)(Vジャンプ10月特大号 応募者全員サービス),Dracule Mihawk,"2,480 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10100.jpg
 Promo-st10,SR,ST15-005,ポートガス・D・エース(パラレル)(3rd ANNIVERSARY SET),Portgas.D.Ace,"4,980 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10101.jpg
@@ -4086,7 +4032,7 @@ Promo-st10,C,ST06-008,ヒナ(パラレル)(プレミアムカードコレクシ�
 Promo-st10,C,ST04-017,鬼ヶ島(パラレル)(プレミアムカードコレクション ベストセレクションvol.2),Onigashima Island,220 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10071.jpg
 Promo-st10,C,ST02-010,バジル・ホーキンス(パラレル)(プロモーションパックEX Vol.1),Basil Hawkins,420 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10072.jpg
 Promo-st10,C,ST01-007,ナミ(パラレル)(ストレージボックスセット),Nami,"9,980 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10074.jpg
-Promo-st10,C,ST01-007,ナミ(パラレル/箔押し)(ストレージボックスセット),Nami,"298,000 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10075.jpg
+Promo-st10,C,ST01-007,ナミ(パラレル/箔押し)(ストレージボックスセット),Nami,"248,000 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10075.jpg
 Promo-st10,C,ST04-002,うるティ(パラレル)(プレミアムカードコレクションベストセレクションvol.3),Ulti,320 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10083.jpg
 Promo-st10,C,ST05-002,アイン(パラレル)(プレミアムカードコレクションベストセレクションvol.3),Ain,220 円,https://card.yuyu-tei.jp/opc/100_140/promo-st10/10084.jpg
 Promo-st10,C,ST10-004,サンジ(パラレル)(8パックバトル2024年優勝記念品),Sanji,"3,980 円",https://card.yuyu-tei.jp/opc/100_140/promo-st10/10085.jpg
