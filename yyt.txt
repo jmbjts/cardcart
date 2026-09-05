@@ -28,6 +28,12 @@ https://yuyu-tei.jp/sell/opc/s/st27
 https://yuyu-tei.jp/sell/opc/s/st28
 https://yuyu-tei.jp/sell/opc/s/st29
 https://yuyu-tei.jp/sell/opc/s/st30
+https://yuyu-tei.jp/sell/opc/s/st31
+https://yuyu-tei.jp/sell/opc/s/st32
+https://yuyu-tei.jp/sell/opc/s/st33
+https://yuyu-tei.jp/sell/opc/s/st34
+https://yuyu-tei.jp/sell/opc/s/st35
+https://yuyu-tei.jp/sell/opc/s/st36
 https://yuyu-tei.jp/sell/opc/s/op01
 https://yuyu-tei.jp/sell/opc/s/op02
 https://yuyu-tei.jp/sell/opc/s/op03
@@ -44,6 +50,7 @@ https://yuyu-tei.jp/sell/opc/s/op13
 https://yuyu-tei.jp/sell/opc/s/op14
 https://yuyu-tei.jp/sell/opc/s/op15
 https://yuyu-tei.jp/sell/opc/s/op16
+https://yuyu-tei.jp/sell/opc/s/op17
 https://yuyu-tei.jp/sell/opc/s/eb01
 https://yuyu-tei.jp/sell/opc/s/eb02
 https://yuyu-tei.jp/sell/opc/s/eb03
